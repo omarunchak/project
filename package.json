@@ -1,7 +1,7 @@
 {
-  "name": "findme-webpack",
+  "name": "webpack",
   "version": "1.0.0",
-  "description": "findme",
+  "description": "",
   "author": "o.marunchak <olexander.marunchak@skelia.com.ua>",
   "private": true,
   "scripts": {

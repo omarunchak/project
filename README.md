@@ -1,6 +1,5 @@
-# findme-webpack
+# package
 
-> findme
 
 ## Build Setup
 
